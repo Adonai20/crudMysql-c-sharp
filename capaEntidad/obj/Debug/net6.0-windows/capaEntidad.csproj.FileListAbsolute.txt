@@ -1,0 +1,12 @@
+C:\Users\PC-Familia\source\repos\CapasN\capaEntidad\bin\Debug\net6.0-windows\capaEntidad.deps.json
+C:\Users\PC-Familia\source\repos\CapasN\capaEntidad\bin\Debug\net6.0-windows\capaEntidad.dll
+C:\Users\PC-Familia\source\repos\CapasN\capaEntidad\bin\Debug\net6.0-windows\ref\capaEntidad.dll
+C:\Users\PC-Familia\source\repos\CapasN\capaEntidad\bin\Debug\net6.0-windows\capaEntidad.pdb
+C:\Users\PC-Familia\source\repos\CapasN\capaEntidad\obj\Debug\net6.0-windows\capaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-Familia\source\repos\CapasN\capaEntidad\obj\Debug\net6.0-windows\capaEntidad.AssemblyInfoInputs.cache
+C:\Users\PC-Familia\source\repos\CapasN\capaEntidad\obj\Debug\net6.0-windows\capaEntidad.AssemblyInfo.cs
+C:\Users\PC-Familia\source\repos\CapasN\capaEntidad\obj\Debug\net6.0-windows\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\PC-Familia\source\repos\CapasN\capaEntidad\obj\Debug\net6.0-windows\capaEntidad.dll
+C:\Users\PC-Familia\source\repos\CapasN\capaEntidad\obj\Debug\net6.0-windows\ref\capaEntidad.dll
+C:\Users\PC-Familia\source\repos\CapasN\capaEntidad\obj\Debug\net6.0-windows\capaEntidad.pdb
+C:\Users\PC-Familia\source\repos\CapasN\capaEntidad\obj\Debug\net6.0-windows\capaEntidad.csproj.AssemblyReference.cache
